@@ -1,0 +1,38 @@
+.homePage {
+    justify-content: space-between;
+    width: 70%;
+    margin-top: 10rem;
+}
+
+.homePage-text {
+    padding-top: 5rem;
+    text-align: center;
+}
+
+.homePage-text > h1,
+.homePage-text > h3,
+.homePage-text > h6 {
+    color: #3F3D56;
+    margin-top: 1rem;
+}
+
+.homePage-text > button {
+    width: 139px;
+    height: 52px;
+    border: none;
+    background: #333;
+    color: #ffffff;
+    border-radius: 8px;
+    margin-top: .5rem;
+    cursor: pointer;
+}
+
+.homePage-text > button:hover {
+    background: #CBCBCB;
+    color: #333;
+}
+
+.homePage-picture > img {
+    width: 740px;
+    height: 537px; 
+}

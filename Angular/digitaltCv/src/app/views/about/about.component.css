@@ -1,0 +1,40 @@
+.aboutPage-text {
+    text-align: center;
+}
+
+.aboutPage-text > h1,
+.aboutPage-text > p {
+    color: #333;
+}
+
+.aboutPage-text > h1 {
+    font-size: 40px;
+    margin-top: 2rem;
+}
+.aboutPage-text > p {
+    font-size: 12px;
+    width: 26%;
+    margin: .5rem auto;
+}
+.aboutPage-content {
+    justify-content: space-around;
+    width: 60%;
+    margin: 2rem auto;
+}
+.utbildningar {
+    margin-right: 15rem;
+}
+.utbildning > h6 {
+    width: 400%;
+    margin-top: 1rem;
+}
+.utbildning > p {
+    font-size: .6rem;
+}
+.utbildningar-datum > p {
+    width: 350%;
+    margin-left: 1.5rem;
+}
+.erfarenhet > p {
+    margin-top: 1rem;
+}
